@@ -1,0 +1,22 @@
+{
+  "name": "solidity",
+  "version": "1.0.0",
+  "description": "Solidity Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenongene/solidity.git"
+  },
+  "author": "Thierry Enongene",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenongene/solidity/issues"
+  },
+  "homepage": "https://github.com/tenongene/solidity#readme",
+  "dependencies": {
+    "npm": "^9.6.2"
+  }
+}
